@@ -1,0 +1,15 @@
+{
+  "short_name": "心理工具导航",
+  "name": "心理学工具导航网站",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#8B5FBF",
+  "background_color": "#F5F3F7"
+}
